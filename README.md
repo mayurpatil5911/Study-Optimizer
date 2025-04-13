@@ -1,4 +1,5 @@
 🧠 Study Scheduler CLI
+
 A simple Python command-line tool that helps you create a personalized study plan by distributing study hours across multiple days based on task importance and deadlines.
 
 📌 Features
